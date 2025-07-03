@@ -21,32 +21,34 @@ The course covers essential topics in machine learning, including:
 ---
 
 ## Current Modules Included
-
-### Module 4: Regression
-- Introduction to Regression  
+### Module 3 : Regression and Classification Notebooks
 - Simple Linear Regression  
 - Multiple Linear Regression  
-- Polynomial and Non-Linear Regression  
-- Introduction to Logistic Regression  
-- Training a Logistic Regression Model  
+- Logistic Regression  
+- Multi-class Classification
+- 
+### Module 4 : Regression and Classification Notebooks
+- Decision Trees  
+- Regression Trees (Taxi Tip Prediction)
+- ...
 
-*(Additional modules will be added as I progress through the course)*
-
+*(More notebooks and modules will be added as I continue the course)*
 ---
 
 ## Repository Structure
-
-```
-├── Module4_Regression/        # Notebooks on regression algorithms  
+├── Module3_Regression_and_Classification/   # Notebooks for regression and classification algorithms  
 │   ├── Simple_Linear_Regression.ipynb  
 │   ├── Multiple_Linear_Regression.ipynb  
-│   ├── Polynomial_Regression.ipynb  
-│   └── Logistic_Regression.ipynb  
-├── data/                      # Sample datasets used in notebooks  
-├── images/                    # Visualizations and plots  
+│   ├── Logistic_Regression.ipynb  
+│   ├── Multi_class_Classification.ipynb  
+│  
+├── Module4_Regression_and_Classification/   # Notebooks for decision trees and regression trees  
+│   ├── Decision_Trees.ipynb  
+│   ├── Regression_Trees_Taxi_Tip_Prediction.ipynb  
+│   └── ...  
+│  
 ├── LICENSE  
 └── README.md  
-```
 
 ---
 
