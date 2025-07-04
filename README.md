@@ -32,24 +32,7 @@ The course covers essential topics in machine learning, including:
 - Regression Trees (Taxi Tip Prediction)
 - ...
 
-*(More notebooks and modules will be added as I continue the course)*
----
-
-## Repository Structure
-├── Module3_Regression_and_Classification/   # Notebooks for regression and classification algorithms  
-│   ├── Simple_Linear_Regression.ipynb  
-│   ├── Multiple_Linear_Regression.ipynb  
-│   ├── Logistic_Regression.ipynb  
-│   ├── Multi_class_Classification.ipynb  
-│  
-├── Module4_Regression_and_Classification/   # Notebooks for decision trees and regression trees  
-│   ├── Decision_Trees.ipynb  
-│   ├── Regression_Trees_Taxi_Tip_Prediction.ipynb  
-│   └── ...  
-│  
-├── LICENSE  
-└── README.md  
-
+**(More notebooks and modules will be added as I continue the course)**
 ---
 
 ## Requirements
