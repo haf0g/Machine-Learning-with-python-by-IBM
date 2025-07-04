@@ -61,7 +61,7 @@ pip install -r requirements.txt
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/IBM-ML-with-Python.git
+git clone https://github.com/haf0g/Machine-Learning-with-python-by-IBM.git
 cd IBM-ML-with-Python
 ```
 
